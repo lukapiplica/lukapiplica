@@ -126,7 +126,7 @@ After graduating from high school, I decided to continue my knowledge of informa
 
    It has long been known that big companies like Google and Facebook are spying on us. They put us in a position where a normal citizen is monitored 24 hours a day. Unfortunately, in Bosnia and Herzegovina, the topic of digital privacy is not so much mentioned. Why do companies have the right to collect data about us at all ?
 
-   I signed up for volunteer work at [EFF] (https://www.eff.org/), a non-profit organization that fights these parasites from companies.
+   I signed up for volunteer work at [EFF](https://www.eff.org/), a non-profit organization that fights these parasites from companies.
 
    Your privacy, your control over your data and your freedom of speech on the internet ! 
    
@@ -137,9 +137,9 @@ Here is a list of my certificates:
 
 | Certificates | Certificate ID |
 | --- | --- |
-| ITAcademy Certified Computer Network Administrator  | <kbd> [025056](www.link-group.eu/certificate) </kbd> |
+| ITAcademy Certified Computer Network Administrator  | <kbd> [025056](https://www.link-group.eu/certificate) </kbd> |
 | Google Digital Garage | <kbd> [325 B49 2XV](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) </kbd>|
-| Udemy Learn to code with Python 3! | <kbd> [UC-b268fbf0-8a81-4575-97a3-75876f56ab12](ude.my/UC-b268fbf0-8a81-4575-97a3-75876f56ab12) </kbd> |
+| Udemy Learn to code with Python 3! | <kbd> [UC-b268fbf0-8a81-4575-97a3-75876f56ab12](https://ude.my/UC-b268fbf0-8a81-4575-97a3-75876f56ab12) </kbd> |
 | TryHackMe Complete Begginer Learning Path  | <kbd> THM-PV3UWE6H73 </kbd> |
 | TryHackMe CompTIA Pentest+ Learning Path  | <kbd> THM-VJ140KARRQ </kbd> |
 | TryHackMe Offensive Pentesting Learning Path  | <kbd> THM-EUR7X51H4W </kbd> |

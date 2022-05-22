@@ -9,9 +9,9 @@
 
 ## How it all started:
 
-Hi, my name is Luka. I'm a young network administrator and cybersecurity reasercher. I'm into technology since I was little, and everything began with my first computer repair, a faulty RAM stick which I had to replace. After that I began experimenting with electronics inside PC's and after some time I got some basic level knowledge on how computers work. 
+Hi, my name is Luka. I'm a young network administrator and cybersecurity reasercher. I'm into technology since I was little, and everything began with my first computer repair, a faulty RAM stick which I had to replace. After that I began experimenting with electronics inside PC's and after some time I got some basic level knowledge on how computers work.
 
-I gained more knowledge as time passed by and I started by being an IT support for my family and friends starting with instructions on how to use a computer, then moving to reinstalling operating systems and after that I gained some basic A+ knowledge on computer systems. 
+I gained more knowledge as time passed by and I started by being an IT support for my family and friends starting with instructions on how to use a computer, then moving to reinstalling operating systems and after that I gained some basic A+ knowledge on computer systems.
 
 
 ## High School:

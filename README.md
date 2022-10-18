@@ -72,7 +72,7 @@ After graduating from high school, I decided to continue my knowledge of informa
 
 
  <p align="center">
-   <img width="75%" src="imagesthm.webp" />
+   <img width="75%" src="images/thm.webp" />
  </p>
 
 

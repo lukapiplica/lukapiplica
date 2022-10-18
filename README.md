@@ -1,12 +1,3 @@
----
-title: "About Me"
-draft: false
-date: 2022-10-13
-showTableOfContents : true
-description: "About me page"
----
-
-
 <p align="center">
   <img width="75%" src="images/logo.webp" />
 </p>

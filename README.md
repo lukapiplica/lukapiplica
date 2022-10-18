@@ -60,7 +60,7 @@ During my third year, I learned to make my own PCB's as well as advanced knowled
 As in previous year, we participated in the X Labor Fest, which was held in Zenica. As a project we had a solar tree which brought us first place.
 
    <p align="center">
-      <img width="75%" src="imagessolarnodrvo.webp" />
+      <img width="75%" src="images/solarnodrvo.webp" />
    </p>
 
 
@@ -69,7 +69,7 @@ As in previous year, we participated in the X Labor Fest, which was held in Zeni
 In the final year, we mostly learned about telecommunications, where I had a topic about radio recievers for my final work. The project we worked on for the XI Labor Fest is an LED desk programmed with an Arduino microcontroller to display patterns.
 
    <p align="center">
-      <img width="75%" src="imagesledtable.webp" />
+      <img width="75%" src="images/ledtable.webp" />
    </p>
    
 This project brought us the first place for the third year in a row.

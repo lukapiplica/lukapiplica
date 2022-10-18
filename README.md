@@ -8,7 +8,7 @@ description: "About me page"
 
 
 <p align="center">
-  <img width="75%" src="logo.webp" />
+  <img width="75%" src="images/logo.webp" />
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ During the first year, I gained knowledge about electrical components (resistors
 During the second year, I had the opportunity to work with a group of classmates on the project "Arduino Scoreboard", which brought us won first place in the state competition (IX Labor Fest) in Hadžići.
 
    <p align="center">
-      <img width="75%" src="scoreboard.webp" />
+      <img width="75%" src="images/scoreboard.webp" />
    </p>
 
    + The Arduino Scoreboard is made using an Arduino microcontroller, and a WiFi module that connects us to the HTML web page (which you can see on the laptop) and with it we control the numbers and time on the traffic light. The numbers are handmade from an LED strip that acts like seven-segment displays.
@@ -54,13 +54,13 @@ During the second year, I had the opportunity to work with a group of classmates
 During my third year, I learned to make my own PCB's as well as advanced knowledge about transistors. This year we had to make something for our final project, I had the opportunity to work on an audio amplifier project.
 
    <p align="center">
-      <img width="75%" src="audio.webp" />
+      <img width="75%" src="images/audio.webp" />
    </p>
    
 As in previous year, we participated in the X Labor Fest, which was held in Zenica. As a project we had a solar tree which brought us first place.
 
    <p align="center">
-      <img width="75%" src="solarnodrvo.webp" />
+      <img width="75%" src="imagessolarnodrvo.webp" />
    </p>
 
 
@@ -69,7 +69,7 @@ As in previous year, we participated in the X Labor Fest, which was held in Zeni
 In the final year, we mostly learned about telecommunications, where I had a topic about radio recievers for my final work. The project we worked on for the XI Labor Fest is an LED desk programmed with an Arduino microcontroller to display patterns.
 
    <p align="center">
-      <img width="75%" src="ledtable.webp" />
+      <img width="75%" src="imagesledtable.webp" />
    </p>
    
 This project brought us the first place for the third year in a row.
@@ -81,7 +81,7 @@ After graduating from high school, I decided to continue my knowledge of informa
 
 
  <p align="center">
-   <img width="75%" src="thm.webp" />
+   <img width="75%" src="imagesthm.webp" />
  </p>
 
 

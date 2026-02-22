@@ -44,7 +44,7 @@ $ ls --experience
 > Technical Blog: Cybersecurity Research & Digital Forensics
 ```
 
-<h3 align="center">🔓 $ decrypt --hourly-wisdom</h3>
+<h3 align="center">🔓 $ decrypt --cyber-wisdom</h3>
 
 <p align="center">
   <img src="https://lukapiplica-cyber-wisdom-api.hf.space/quote.svg" alt="Cyber Wisdom Feed"/>
@@ -155,11 +155,15 @@ $ ls --experience
   <a href="mailto:lukapiplica@protonmail.ch">
     <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/lukapiplica">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://lukapiplica.xyz">
     <img src="https://img.shields.io/badge/Portfolio-2bbc8a?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>

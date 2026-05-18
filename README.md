@@ -39,6 +39,7 @@ high-availability systems and 24/7 network infrastructure.
 [LOCATION]:    Sarajevo, Bosnia and Herzegovina
 
 $ ls --experience
+> Sejo Bajraktarević Archive: Full-Stack Developer (Project-Based)
 > BHRT: IT Support Specialist (System & Network Maintenance)
 > Adair Café Bar: Web Developer & Graphic Designer (Volunteer)
 > Technical Blog: Cybersecurity Research & Digital Forensics
@@ -84,6 +85,7 @@ $ ls --experience
 ![](https://img.shields.io/badge/Code-Python-2bbc8a?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML5-2bbc8a?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Code-CSS3-2bbc8a?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Framework-Astro-2bbc8a?style=flat&logo=astro&logoColor=white)
 ![](https://img.shields.io/badge/Code-Markdown-2bbc8a?style=flat&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Git-2bbc8a?style=flat&logo=git&logoColor=white)
 
@@ -93,6 +95,17 @@ $ ls --experience
 
 | Date        | Issuer        | Title                                                    | ID                                                                                 |
 | :---------- | :------------ | :------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| **05/2026** | **Anthropic** | Claude with Amazon Bedrock                               | [View](https://verify.skilljar.com/c/4rz6i7e2ddwj)                                 |
+| **05/2026** | **Anthropic** | Introduction to subagents                                | [View](https://verify.skilljar.com/c/7vt5hsrwqrym)                                 |
+| **05/2026** | **Anthropic** | Introduction to agent skills                             | [View](https://verify.skilljar.com/c/3yyanaavciqh)                                 |
+| **04/2026** | **Anthropic** | Model Context Protocol: Advanced Topics                  | [View](https://verify.skilljar.com/c/qcr4p26gbr5f)                                 |
+| **04/2026** | **Anthropic** | Introduction to Model Context Protocol                   | [View](https://verify.skilljar.com/c/9crf66tdctee)                                 |
+| **04/2026** | **Anthropic** | Claude with the Anthropic API                            | [View](https://verify.skilljar.com/c/rybcypayv8ac)                                 |
+| **04/2026** | **Anthropic** | Claude Code 101                                          | [View](https://verify.skilljar.com/c/rnshycshdz5h)                                 |
+| **04/2026** | **Anthropic** | Claude Code in Action                                    | [View](https://verify.skilljar.com/c/ji5t4xcgyydv)                                 |
+| **04/2026** | **Anthropic** | AI Fluency: Framework & Foundations                      | [View](https://verify.skilljar.com/c/8m6fqu3536cn)                                 |
+| **03/2026** | **Anthropic** | Introduction to Claude Cowork                            | [View](https://verify.skilljar.com/c/tojgzovv2uvp)                                 |
+| **03/2026** | **Anthropic** | Claude 101                                               | [View](https://verify.skilljar.com/c/j6em582ajo5f)                                 |
 | **09/2025** | **EF SET**    | English Certificate **(C2 Proficient)**                  | [View](https://cert.efset.org/asXQW4)                                              |
 | **05/2022** | **Udemy**     | The Complete Python Hacking Course: Beginner to Advanced | [View](https://www.udemy.com/certificate/UC-8aea5973-75b9-45f4-ac48-c2b3542c071e/) |
 | **01/2022** | **Udemy**     | Learn to Code with Python 3                              | [View](https://www.udemy.com/certificate/UC-b268fbf0-8a81-4575-97a3-75876f56ab12/) |
@@ -138,6 +151,21 @@ $ ls --experience
   - **Infrastructure:** Configured local keypair security and managed on-chain token accounts via terminal-based transactions.
   - **Integration:** Successfully integrated the token into the official Solana Labs Registry through GitHub-based CI/CD workflows (Pull Requests & JSON schemas).
 
+#### ⚡ Web Engineering & Development
+
+- **Sejo Bajraktarević Digital Archive**
+  - **Implementation:** Customized and deployed a high-performance multimedia platform using an Astro.js template.
+  - **Performance:** Hosted via Cloudflare Pages edge network for near-instant load speeds and zero-JS footprint.
+  - **Infrastructure:** Integrated Tigris Object Storage (S3-compatible) to scale and serve assets via a dedicated media subdomain.
+  - **Localization:** Configured full i18n support for 4 languages (BS, EN, ES, DE) with automated media optimization pipelines.
+  - **Live Project:** [sejobaron.xyz](https://sejobaron.xyz)
+
+- **Adair Café Bar Website**
+  - **Development:** Built a lightweight, responsive business website using clean, vanilla HTML5, CSS3, and JavaScript.
+  - **Design:** Created custom typography, graphic assets, and user interface elements to match the venue's branding.
+  - **Deployment:** Managed version control and deployed the production-ready site using GitHub Pages infrastructure.
+  - **Live Project:** [adaircafebar.github.io](https://adaircafebar.github.io)
+
 ---
 
 <h3 id="stats" align="center">📉 $ fetch --stats lukapiplica</h3>
@@ -148,7 +176,7 @@ $ ls --experience
 
 ---
 
-<h3 id="contact" align="center">📡$ establish_connection.sh</h3>
+<h3 id="contact" align="center">📡 $ establish_connection.sh</h3>
 
 <div align="center">
 
@@ -164,7 +192,7 @@ $ ls --experience
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://lukapiplica.xyz">
+  <a href="https://lukapiplica.github.io">
     <img src="https://img.shields.io/badge/Portfolio-2bbc8a?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 

@@ -95,6 +95,7 @@ $ ls --experience
 
 | Date        | Issuer        | Title                                                    | ID                                                                                 |
 | :---------- | :------------ | :------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| **06/2026** | **Anthropic** | Claude with Google Cloud's Vertex AI                     | [View](https://verify.skilljar.com/c/eh4i4bvuwveo)                                 |
 | **05/2026** | **Anthropic** | Claude with Amazon Bedrock                               | [View](https://verify.skilljar.com/c/4rz6i7e2ddwj)                                 |
 | **05/2026** | **Anthropic** | Introduction to subagents                                | [View](https://verify.skilljar.com/c/7vt5hsrwqrym)                                 |
 | **05/2026** | **Anthropic** | Introduction to agent skills                             | [View](https://verify.skilljar.com/c/3yyanaavciqh)                                 |

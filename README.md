@@ -181,7 +181,7 @@ $ ls --experience
 
 <div align="center">
 
-  <a href="mailto:lukapiplica@protonmail.ch">
+  <a href="mailto:piplicaluka@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
 
@@ -193,7 +193,7 @@ $ ls --experience
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://lukapiplica.github.io">
+  <a href="https://piplicaluka.xyz">
     <img src="https://img.shields.io/badge/Portfolio-2bbc8a?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 

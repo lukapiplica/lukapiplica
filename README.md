@@ -184,7 +184,7 @@ $ ls --experience
 <h3 id="stats" align="center">📉 $ fetch --stats lukapiplica</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lukapiplica&theme=tokyo-night&area=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=lukapiplica&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---

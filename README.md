@@ -25,10 +25,10 @@
 ```bash
 luka@it-ops:~$ cat about_me.txt
 
-Result-oriented IT Professional with experience in maintaining
+Result-oriented IT Professional with comprehensive experience in maintaining
 high-availability systems and 24/7 network infrastructure.
 
-[CURRENT]:     Focusing on IT Operations & Cybersecurity
+[CURRENT]:     Technical Support Specialist @ Logosoft d.o.o.
 
 [EDUCATION]:   ITAcademy Certified Network Administrator
 
@@ -39,10 +39,11 @@ high-availability systems and 24/7 network infrastructure.
 [LOCATION]:    Sarajevo, Bosnia and Herzegovina
 
 $ ls --experience
-> Sejo Bajraktarević Archive: Full-Stack Developer (Project-Based)
+> Logosoft d.o.o.: Technical Support Specialist (ISP & Network Diagnostics)
+> Athens d.o.o.: On-Demand IT Support Specialist (Infrastructure & Continuity)
 > BHRT: IT Support Specialist (System & Network Maintenance)
-> Adair Café Bar: Web Developer & Graphic Designer (Volunteer)
-> Technical Blog: Cybersecurity Research & Digital Forensics
+> Sejo Bajraktarević Archive: Full-Stack Developer (Project-Based)
+> Adair Café Bar: Web Developer & Graphic Designer
 ```
 
 <h3 align="center">🔓 $ decrypt --cyber-wisdom</h3>
@@ -93,32 +94,38 @@ $ ls --experience
 
 <h3 id="awards" align="center">📜 $ sudo cat /etc/certs.log</h3>
 
-| Date        | Issuer        | Title                                                    | ID                                                                                 |
-| :---------- | :------------ | :------------------------------------------------------- | :--------------------------------------------------------------------------------- |
-| **06/2026** | **Anthropic** | Claude with Google Cloud's Vertex AI                     | [View](https://verify.skilljar.com/c/eh4i4bvuwveo)                                 |
-| **05/2026** | **Anthropic** | Claude with Amazon Bedrock                               | [View](https://verify.skilljar.com/c/4rz6i7e2ddwj)                                 |
-| **05/2026** | **Anthropic** | Introduction to subagents                                | [View](https://verify.skilljar.com/c/7vt5hsrwqrym)                                 |
-| **05/2026** | **Anthropic** | Introduction to agent skills                             | [View](https://verify.skilljar.com/c/3yyanaavciqh)                                 |
-| **04/2026** | **Anthropic** | Model Context Protocol: Advanced Topics                  | [View](https://verify.skilljar.com/c/qcr4p26gbr5f)                                 |
-| **04/2026** | **Anthropic** | Introduction to Model Context Protocol                   | [View](https://verify.skilljar.com/c/9crf66tdctee)                                 |
-| **04/2026** | **Anthropic** | Claude with the Anthropic API                            | [View](https://verify.skilljar.com/c/rybcypayv8ac)                                 |
-| **04/2026** | **Anthropic** | Claude Code 101                                          | [View](https://verify.skilljar.com/c/rnshycshdz5h)                                 |
-| **04/2026** | **Anthropic** | Claude Code in Action                                    | [View](https://verify.skilljar.com/c/ji5t4xcgyydv)                                 |
-| **04/2026** | **Anthropic** | AI Fluency: Framework & Foundations                      | [View](https://verify.skilljar.com/c/8m6fqu3536cn)                                 |
-| **03/2026** | **Anthropic** | Introduction to Claude Cowork                            | [View](https://verify.skilljar.com/c/tojgzovv2uvp)                                 |
-| **03/2026** | **Anthropic** | Claude 101                                               | [View](https://verify.skilljar.com/c/j6em582ajo5f)                                 |
-| **09/2025** | **EF SET**    | English Certificate **(C2 Proficient)**                  | [View](https://cert.efset.org/asXQW4)                                              |
-| **05/2022** | **Udemy**     | The Complete Python Hacking Course: Beginner to Advanced | [View](https://www.udemy.com/certificate/UC-8aea5973-75b9-45f4-ac48-c2b3542c071e/) |
-| **01/2022** | **Udemy**     | Learn to Code with Python 3                              | [View](https://www.udemy.com/certificate/UC-b268fbf0-8a81-4575-97a3-75876f56ab12/) |
-| **01/2021** | **ITAcademy** | **Certified Network Administrator**                      | [View](https://www.link-group.eu/certificate/) `ID: 025056`                        |
+| Date        | Issuer        | Title                                                            | ID                                                                                                                   |
+| :---------- | :------------ | :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- |
+| **08/2026** | **NASA**      | Nancy Grace Roman Space Telescope - Pixel Adoption (`#00059049`) | [View](https://piplicaluka.xyz/assets/certificates/nasa-roman-pixel-adoption.pdf)                                   |
+| **06/2026** | **Anthropic** | Claude with Google Cloud's Vertex AI                             | [View](https://verify.skilljar.com/c/eh4i4bvuwveo)                                                                   |
+| **05/2026** | **Anthropic** | Claude with Amazon Bedrock                                       | [View](https://verify.skilljar.com/c/4rz6i7e2ddwj)                                                                   |
+| **05/2026** | **Anthropic** | Introduction to subagents                                        | [View](https://verify.skilljar.com/c/7vt5hsrwqrym)                                                                   |
+| **05/2026** | **Anthropic** | Introduction to agent skills                                     | [View](https://verify.skilljar.com/c/3yyanaavciqh)                                                                   |
+| **04/2026** | **Anthropic** | Model Context Protocol: Advanced Topics                          | [View](https://verify.skilljar.com/c/qcr4p26gbr5f)                                                                   |
+| **04/2026** | **Anthropic** | Introduction to Model Context Protocol                           | [View](https://verify.skilljar.com/c/9crf66tdctee)                                                                   |
+| **04/2026** | **Anthropic** | Claude with the Anthropic API                                    | [View](https://verify.skilljar.com/c/rybcypayv8ac)                                                                   |
+| **04/2026** | **Anthropic** | Claude Code 101                                                  | [View](https://verify.skilljar.com/c/rnshycshdz5h)                                                                   |
+| **04/2026** | **Anthropic** | Claude Code in Action                                            | [View](https://verify.skilljar.com/c/ji5t4xcgyydv)                                                                   |
+| **04/2026** | **Anthropic** | AI Fluency: Framework & Foundations                              | [View](https://verify.skilljar.com/c/8m6fqu3536cn)                                                                   |
+| **03/2026** | **Anthropic** | Introduction to Claude Cowork                                    | [View](https://verify.skilljar.com/c/tojgzovv2uvp)                                                                   |
+| **03/2026** | **Anthropic** | Claude 101                                                       | [View](https://verify.skilljar.com/c/j6em582ajo5f)                                                                   |
+| **09/2025** | **EF SET**    | English Certificate **(C2 Proficient)**                          | [View](https://cert.efset.org/asXQW4)                                                                                |
+| **05/2022** | **Udemy**     | The Complete Python Hacking Course: Beginner to Advanced         | [View](https://www.udemy.com/certificate/UC-8aea5973-75b9-45f4-ac48-c2b3542c071e/)                                   |
+| **01/2022** | **Udemy**     | Learn to Code with Python 3                                      | [View](https://www.udemy.com/certificate/UC-b268fbf0-8a81-4575-97a3-75876f56ab12/)                                   |
+| **05/2021** | **TryHackMe** | Web Fundamentals Learning Path                                   | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CMQJCBRKFN.pdf)                                 |
+| **05/2021** | **TryHackMe** | Offensive Pentesting Learning Path                               | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EUR7X51H4W.pdf)                                 |
+| **05/2021** | **TryHackMe** | CompTIA Pentest+ Learning Path                                   | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VJ140KARRQ.pdf)                                 |
+| **05/2021** | **TryHackMe** | Advent of Cyber 2020                                             | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TVKIPRVSSQ.pdf)                                 |
+| **05/2021** | **TryHackMe** | Complete Beginner Learning Path                                  | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PV3UWE6H73.pdf)                                 |
+| **01/2021** | **ITAcademy** | **Certified Computer Network Administrator**                     | [View](https://www.link-group.eu/certificate/) `ID: 025056`                                                          |
 
 <h3 align="center">🏅 $ sudo cat /etc/achievements.log</h3>
 
-| Date        | Award            | Competition      | Project & Technical Focus                                                   |
-| :---------- | :--------------- | :--------------- | :-------------------------------------------------------------------------- |
-| **04/2019** | 🥇 **1st Place** | XI Festival rada | **Interactive Table:** Circuit design, LED matrix & ambient lighting logic. |
-| **05/2018** | 🥇 **1st Place** | X Festival rada  | **IoT Solar Station:** Bluetooth connectivity & optimized power management. |
-| **06/2017** | 🥇 **1st Place** | IX Festival rada | **Arduino Scoreboard:** Wireless remote control with custom web interface.  |
+| Date        | Award            | Competition      | Project & Technical Focus                                                   | Diploma                                                                                |
+| :---------- | :--------------- | :--------------- | :-------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
+| **04/2019** | 🥇 **1st Place** | XI Festival rada | **Interactive Table:** Circuit design, LED matrix & ambient lighting logic. | [View](https://piplicaluka.xyz/assets/diplomas/1st-place-diploma-xi-festival-rada.pdf) |
+| **05/2018** | 🥇 **1st Place** | X Festival rada  | **IoT Solar Station:** Bluetooth connectivity & optimized power management. | [View](https://piplicaluka.xyz/assets/diplomas/1st-place-diploma-x-festival-rada.pdf)  |
+| **06/2017** | 🥇 **1st Place** | IX Festival rada | **Arduino Scoreboard:** Wireless remote control with custom web interface.  | [View](https://piplicaluka.xyz/assets/diplomas/1st-place-diploma-ix-festival-rada.pdf) |
 
 ---
 
@@ -166,6 +173,11 @@ $ ls --experience
   - **Design:** Created custom typography, graphic assets, and user interface elements to match the venue's branding.
   - **Deployment:** Managed version control and deployed the production-ready site using GitHub Pages infrastructure.
   - **Live Project:** [adaircafebar.github.io](https://adaircafebar.github.io)
+
+- **Cyber Wisdom API**
+  - **Implementation:** Built a lightweight FastAPI microservice optimized for Docker and Hugging Face Spaces.
+  - **Integration:** Generates dynamic, GitHub-optimized vector SVG quote cards in real time for profile integration.
+  - **Live Service:** [lukapiplica-cyber-wisdom-api.hf.space](https://lukapiplica-cyber-wisdom-api.hf.space)
 
 ---
 
